@@ -9,7 +9,6 @@ The aim of this project was to create a fully responsive website based on the gu
 * HTML5
 * CSS
 * RWD
-* JavaScript ES5
 
 ## Page
 [Live Demo](https://sebastian-konicz.github.io/Verti/)
