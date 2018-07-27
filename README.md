@@ -15,4 +15,4 @@ The aim of this project was to create a fully responsive website based on the gu
 [Live Demo](https://sebastian-konicz.github.io/Verti/)
 
 ## Page screenshot
-![Image](https://github.com/sebastian-konicz/SitOnChair/blob/master/Verti.png)
+![Image](https://github.com/sebastian-konicz/Verti/blob/master/Verti.png)
