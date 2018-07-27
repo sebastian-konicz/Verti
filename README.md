@@ -7,8 +7,9 @@ The aim of this project was to create a fully responsive website based on the gu
 
 ## Technologies used
 * HTML5
-* CSS
+* SCSS
 * RWD
+* Gulp
 
 ## Page
 [Live Demo](https://sebastian-konicz.github.io/Verti/)
